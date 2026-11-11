@@ -49,4 +49,4 @@ console.log(producto.precioBase);
 // 8. Intentamos modificar el precio base desde fuera
 // También provoca un error porque precioBase es private
 
-producto.precioBase = 50;
+producto.precioBase = 500;
